@@ -2,10 +2,10 @@
 
 roblox script hub, one key works on 60+ games. also got mass farms for adopt me and mm2 that you control from the website
 
-website: https://zekehub.com
-games: https://zekehub.com/games
-buy a key: https://zekehub.com/pricing
-discord: https://discord.gg/zekehub
+- website: https://zekehub.com
+- games: https://zekehub.com/games
+- buy a key: https://zekehub.com/pricing
+- discord: https://discord.gg/zekehub
 
 ## how to use
 
